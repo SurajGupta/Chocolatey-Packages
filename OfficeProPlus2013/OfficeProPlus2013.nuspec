@@ -10,7 +10,7 @@
     <summary>Microsoft Office Professional Plus 2013</summary>
     <description>This will download and silently install the entire Microsoft Office Professional Plus 2013 Retail edition. A license is required and you will be prompted to enter your account information upon first launching the software after install.</description>
     <projectUrl>http://office.microsoft.com/</projectUrl>
-    <iconUrl>https://github.com/SurajGupta/Chocolatey-Packages/raw/master/OfficeProPlus2013/icon.png</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/SurajGupta/Chocolatey-Packages/master/OfficeProPlus2013/icon.png</iconUrl>
     <tags>Microsoft Office Professional Plus 2013</tags>
     <licenseUrl>http://windows.microsoft.com/en-us/windows-live/microsoft-services-agreement</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
